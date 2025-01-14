@@ -16,7 +16,7 @@ export default function Master() {
                 <tbody>
                     <tr>
                         <td className="border border-black p-1">1</td>
-                        <td className="border border-black p-1">3M 764 VINYL TAPE BIRU  2"X33m</td>
+                        <td className="border border-black p-1">3M 764 VINYL TAPE BIRU  2&rdquo;X33m</td>
                         <td className="border border-black p-1">ROLL</td>
                         <td className="border border-black p-1">-</td>
                     </tr>
@@ -28,7 +28,7 @@ export default function Master() {
                     </tr>
                     <tr>
                         <td className="border border-black p-1">3</td>
-                        <td className="border border-black p-1">3M 764 VINYL TAPE HIJAU 2"X33m</td>
+                        <td className="border border-black p-1">3M 764 VINYL TAPE HIJAU 2&rdquo;X33m</td>
                         <td className="border border-black p-1">ROLL</td>
                         <td className="border border-black p-1">-</td>
                     </tr>

@@ -11,9 +11,9 @@ export default function RequestFormPage() {
                         <td>
                             <select name="" id="" className="border border-black rounded-xl p-1">
                                 <option value="">Pilih</option>
-                                <option value="">3M 764 VINYL TAPE BIRU 2"X33m</option>
+                                <option value="">3M 764 VINYL TAPE BIRU 2&rdquo;X33m</option>
                                 <option value="">3M 764 VINYL TAPE HIJAU 5mmmx3mm</option>
-                                <option value="">3M 764 VINYL TAPE HIJAU 2"X33m</option>
+                                <option value="">3M 764 VINYL TAPE HIJAU 2&rdquo;X33m</option>
                             </select>
                         </td>
                     </tr>
