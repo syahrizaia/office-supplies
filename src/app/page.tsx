@@ -10,6 +10,9 @@ export default function App() {
           <h1 className="text-lg">Masuk sebagai?</h1>
           <ul className="flex flex-col gap-4">
             <Link href={"/dashboard"}>
+              <li className="bg-cyan-600 rounded-xl p-2">Admin</li>
+            </Link>
+            <Link href={"/dashboard"}>
               <li className="bg-cyan-600 rounded-xl p-2">Departemen 1</li>
             </Link>
             <Link href={"/dashboard"}>
